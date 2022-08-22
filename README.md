@@ -1,1 +1,1 @@
-
+The WeSafe android app was designed to send alerts to emergency contacts. The alerts were sent through SMS service which contained real time location of the user. The alerts sending could be initiated by user through the app or by phone shake gesture.
